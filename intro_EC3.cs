@@ -19,7 +19,7 @@ namespace alemrv_openbootcamp
         {
             return a + b + c;
         }
-    } 
+    }
     public class Coche
     {
         public int puertas = 4;
@@ -28,5 +28,5 @@ namespace alemrv_openbootcamp
         {
             this.puertas++;
         }
-    }    
+    }
 }

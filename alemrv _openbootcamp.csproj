@@ -6,6 +6,7 @@
     <RootNamespace>alemrv__openbootcamp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>alemrv__openbootcamp.intro_EC4</StartupObject>
   </PropertyGroup>
 
 </Project>
